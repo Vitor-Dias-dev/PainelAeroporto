@@ -1,0 +1,7 @@
+public enum Status {
+    PREVISTO,
+    CONFIRMADO,
+    EMBARQUE_EM_CURSO,
+    EMBARQUE_ENCERRADO,
+    DECOLOU;
+}
